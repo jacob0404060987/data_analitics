@@ -12,11 +12,13 @@ generated quantities {
     real beta_drag_coeficient;
     real  sigma;
     vector [N] fuel_consumption;
+
     alpha = normal_rng(9.36,2.29);
     beta_engine_size = normal_rng(0, 1);
     beta_cylinders = normal_rng(0, 1);
     beta_drag_coeficient = normal_rng(0, 1);
     sigma = normal_rng(2, 1);
+
         // sigma = exponential_rng(5);
     for(i in 1:N)
     {
