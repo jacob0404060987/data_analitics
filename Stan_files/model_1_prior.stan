@@ -1,6 +1,6 @@
 data{
     int N;
-    array[N] real<lower=0> engine_size;
+    array[N] real<lower=1> engine_size;
     array[N] real<lower=0> drag_coeficient;
 }
 
@@ -9,8 +9,8 @@ generated quantities {
     real beta_engine_size;
     real beta_drag_coeficient;
     real  sigma;
-    vector [N] fuel_consumption;
-    alpha = normal_rng(9.36,2.29);
+    vector[N] fuel_consumption;
+    alpha = normal_rng(8.5,3);
     beta_engine_size = normal_rng(0, 1);
     beta_drag_coeficient = normal_rng(0, 1);
     sigma = normal_rng(2, 1);

@@ -16,7 +16,7 @@ parameters {
 
 model {
     
-    alpha ~ normal(9.36, 2.29);  
+    alpha ~ normal(8.5, 3);  
     beta_engine_size ~ normal(0, 1);  
     beta_drag_coeficient ~ normal(0, 1);
     sigma ~ normal(0, 1);
@@ -34,7 +34,8 @@ generated quantities {
     vector[N] log_lik;
    for(i in 1:N)
     {
+            log_lik[i] = normal_lpdf(fuel_consumption[i] | alpha + beta_engine_size * engine_size[i] + beta_drag_coeficient * drag_coeficient[i], sigma);
+
     y_out[i] = normal_rng(alpha + beta_engine_size * engine_size[i] + beta_drag_coeficient * drag_coeficient[i], sigma);
-    log_lik[i] = normal_lpdf(fuel_consumption[i] | alpha + beta_engine_size * engine_size[i] + beta_drag_coeficient * drag_coeficient[i], sigma);
     }
 }
