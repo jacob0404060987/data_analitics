@@ -35,6 +35,6 @@ generated quantities {
    for(i in 1:N)
     {
     y_out[i] = normal_rng(alpha + beta_engine_size * engine_size[i] + beta_drag_coeficient * drag_coeficient[i], sigma);
-    log_lik[i] = normal_lpdf(y_out[i] | alpha + beta_engine_size * engine_size[i] + beta_drag_coeficient * drag_coeficient[i], sigma);
+    log_lik[i] = normal_lpdf(fuel_consumption[i] | alpha + beta_engine_size * engine_size[i] + beta_drag_coeficient * drag_coeficient[i], sigma);
     }
 }
