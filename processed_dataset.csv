@@ -1,0 +1,947 @@
+,Make,Model,Engine Size(L),Cylinders,Fuel Consumption(Hwy (L/100 km)),Drag coefficient
+0,Acura,ILX,2.4,4,7.0,0.30000000000000004
+1,Acura,MDX SH-AWD,3.5,6,9.4,0.37
+2,Acura,RDX SH-AWD,2.0,4,8.6,0.37
+3,Acura,RDX SH-AWD A-SPEC,2.0,4,9.1,0.37
+4,Acura,TLX SH-AWD,2.0,4,8.0,0.30000000000000004
+5,Acura,TLX SH-AWD A-SPEC,2.0,4,8.1,0.30000000000000004
+6,Acura,TLX Type S,3.0,6,9.4,0.30000000000000004
+7,Acura,TLX Type S (Performance Tire),3.0,6,9.8,0.30000000000000004
+8,Alfa Romeo,Giulia,2.0,4,7.2,0.30500000000000005
+9,Alfa Romeo,Giulia AWD,2.0,4,7.7,0.30500000000000005
+10,Alfa Romeo,Giulia Quadrifoglio,2.9,6,9.3,0.30500000000000005
+11,Alfa Romeo,Stelvio,2.0,4,8.1,0.37
+12,Alfa Romeo,Stelvio AWD,2.0,4,8.3,0.37
+13,Alfa Romeo,Stelvio AWD Quadrifoglio,2.9,6,10.3,0.37
+14,Aston Martin,DB11 V8,4.0,8,9.8,0.32499999999999996
+15,Aston Martin,DB11 V12,5.2,12,10.7,0.32499999999999996
+16,Aston Martin,DBS V12,5.2,12,10.7,0.32499999999999996
+17,Aston Martin,DBX V8,4.0,8,11.9,0.4
+18,Aston Martin,Vantage V8,4.0,8,9.6,0.32499999999999996
+19,Audi,A3 Sedan 40 TFSI quattro,2.0,4,6.6,0.32499999999999996
+20,Audi,A4 Sedan 40 TFSI quattro,2.0,4,7.0,0.30000000000000004
+21,Audi,A4 Sedan 45 TFSI quattro,2.0,4,7.6,0.30000000000000004
+22,Audi,A4 allroad 45 TFSI quattro,2.0,4,7.9,0.32499999999999996
+23,Audi,A5 Cabriolet 45 TFSI quattro,2.0,4,7.5,0.32499999999999996
+24,Audi,A5 Coupe 45 TFSI quattro,2.0,4,7.6,0.32499999999999996
+25,Audi,A5 Sportback 45 TFSI quattro,2.0,4,7.6,0.30500000000000005
+26,Audi,A6 Sedan 45 TFSI quattro,2.0,4,7.4,0.30500000000000005
+27,Audi,A6 Sedan 55 TFSI quattro,3.0,6,7.8,0.30500000000000005
+28,Audi,A6 allroad 55 TFSI quattro,3.0,6,8.3,0.33999999999999997
+29,Audi,A7 Sportback 55 TFSI quattro,3.0,6,7.8,0.30500000000000005
+30,Audi,A8 L Sedan 55 TFSI quattro,3.0,6,8.3,0.315
+31,Audi,Q3 40 TFSI quattro,2.0,4,7.7,0.37
+32,Audi,Q3 45 TFSI quattro,2.0,4,8.3,0.37
+33,Audi,Q5 40 TFSI quattro,2.0,4,8.1,0.37
+34,Audi,Q5 45 TFSI quattro,2.0,4,8.4,0.37
+35,Audi,Q5 Sportback 45 TFSI quattro,2.0,4,8.4,0.37
+36,Audi,Q7 45 TFSI quattro,2.0,4,9.4,0.4
+37,Audi,Q7 55 TFSI quattro,3.0,6,10.5,0.4
+38,Audi,Q8 55 TFSI quattro,3.0,6,10.5,0.4
+39,Audi,R8 Coupe Performance,5.2,10,10.3,0.32499999999999996
+40,Audi,R8 Coupe Performance quattro,5.2,10,12.1,0.32499999999999996
+41,Audi,R8 Spyder Performance,5.2,10,10.3,0.32499999999999996
+42,Audi,R8 Spyder Performance quattro,5.2,10,12.1,0.32499999999999996
+43,Audi,RS 5 Coupe quattro,2.9,6,9.4,0.32499999999999996
+44,Audi,RS 5 Sportback quattro,2.9,6,9.4,0.30500000000000005
+45,Audi,RS 6 Avant quattro,4.0,8,10.7,0.33999999999999997
+46,Audi,RS 7 Sportback quattro,4.0,8,10.5,0.30500000000000005
+47,Audi,RS Q8 quattro,4.0,8,12.3,0.4
+48,Audi,S3 Sedan quattro,2.0,4,7.2,0.32499999999999996
+49,Audi,S4 Sedan quattro,3.0,6,8.0,0.30000000000000004
+50,Audi,S5 Cabriolet quattro,3.0,6,8.4,0.32499999999999996
+51,Audi,S5 Coupe quattro,3.0,6,8.0,0.32499999999999996
+52,Audi,S5 Sportback quattro,3.0,6,8.0,0.30500000000000005
+53,Audi,S6 Sedan quattro,2.9,6,8.5,0.30500000000000005
+54,Audi,S7 Sportback quattro,2.9,6,8.5,0.30500000000000005
+55,Audi,S8 Sedan quattro,4.0,8,10.2,0.315
+56,Audi,SQ5 quattro,3.0,6,9.7,0.37
+57,Audi,SQ5 Sportback quattro,3.0,6,9.7,0.37
+58,Audi,SQ7 quattro,4.0,8,11.4,0.4
+59,Audi,SQ8 quattro,4.0,8,11.4,0.4
+60,Audi,TT Coupe 45 TFSI quattro,2.0,4,7.9,0.32499999999999996
+61,Audi,TT Roadster 45 TFSI quattro,2.0,4,7.9,0.32499999999999996
+62,Audi,TT RS Coupe quattro,2.5,5,8.1,0.32499999999999996
+63,Audi,TTS Coupe quattro,2.0,4,7.7,0.32499999999999996
+64,Bentley,Bentayga,4.0,8,9.9,0.4
+65,Bentley,Bentayga Speed,6.0,12,13.0,0.4
+66,Bentley,Continental GT,4.0,8,9.0,0.32499999999999996
+67,Bentley,Continental GT Speed,6.0,12,12.0,0.32499999999999996
+68,Bentley,Continental GT Convertible,4.0,8,9.2,0.32499999999999996
+69,Bentley,Continental GT Convertible Speed,6.0,12,12.9,0.32499999999999996
+70,Bentley,Flying Spur,4.0,8,11.6,0.30500000000000005
+71,Bentley,Flying Spur,6.0,12,12.2,0.30500000000000005
+72,BMW,330i xDrive Sedan,2.0,4,6.9,0.30000000000000004
+73,BMW,430i xDrive Cabriolet,2.0,4,7.1,0.32499999999999996
+74,BMW,430i xDrive Coupe,2.0,4,7.1,0.32499999999999996
+75,BMW,530i xDrive Sedan,2.0,4,7.4,0.30500000000000005
+76,BMW,540i xDrive Sedan,3.0,6,8.1,0.315
+77,BMW,750i xDrive Sedan,4.4,8,9.6,0.315
+78,BMW,750Li xDrive Sedan,4.4,8,9.6,0.315
+79,BMW,Alpina B7,4.4,8,9.6,0.315
+80,BMW,Alpina B8 Gran Coupe,4.4,8,9.6,0.30500000000000005
+81,BMW,Alpina XB7,4.4,8,11.5,0.4
+82,BMW,M235i xDrive Gran Coupe,2.0,4,7.8,0.30000000000000004
+83,BMW,M240i xDrive Coupe,3.0,6,7.5,0.32499999999999996
+84,BMW,M3 Sedan,3.0,6,10.1,0.30000000000000004
+85,BMW,M3 Competition Sedan,3.0,6,10.2,0.30000000000000004
+86,BMW,M3 Competition Sedan M xDrive,3.0,6,10.5,0.30000000000000004
+87,BMW,M340i xDrive Sedan,3.0,6,7.7,0.30000000000000004
+88,BMW,M4 Competition Cabriolet M xDrive,3.0,6,10.4,0.32499999999999996
+89,BMW,M4 Coupe,3.0,6,10.1,0.32499999999999996
+90,BMW,M4 Competition Coupe,3.0,6,10.2,0.32499999999999996
+91,BMW,M4 Competition Coupe M xDrive,3.0,6,10.5,0.32499999999999996
+92,BMW,M440i xDrive Cabriolet,3.0,6,7.4,0.32499999999999996
+93,BMW,M440i xDrive Coupe,3.0,6,7.7,0.32499999999999996
+94,BMW,M440i xDrive Gran Coupe,3.0,6,8.0,0.30000000000000004
+95,BMW,M5 Sedan,4.4,8,11.0,0.30500000000000005
+96,BMW,M5 Competition,4.4,8,11.0,0.30500000000000005
+97,BMW,M5 CS,4.4,8,11.0,0.30500000000000005
+98,BMW,M550i xDrive Sedan,4.4,8,9.3,0.30500000000000005
+99,BMW,M760i xDrive Sedan,6.6,12,11.9,0.315
+100,BMW,M8 Cabriolet,4.4,8,11.0,0.32499999999999996
+101,BMW,M8 Cabriolet Competition,4.4,8,11.0,0.32499999999999996
+102,BMW,M8 Coupe,4.4,8,11.0,0.32499999999999996
+103,BMW,M8 Coupe Competition,4.4,8,11.0,0.32499999999999996
+104,BMW,M8 Gran Coupe,4.4,8,11.0,0.30500000000000005
+105,BMW,M8 Gran Coupe Competition,4.4,8,11.0,0.30500000000000005
+106,BMW,M850i xDrive Cabriolet,4.4,8,9.6,0.32499999999999996
+107,BMW,M850i xDrive Coupe,4.4,8,9.3,0.32499999999999996
+108,BMW,M850i xDrive Gran Coupe,4.4,8,9.6,0.30500000000000005
+109,BMW,X1 xDrive28i,2.0,4,7.7,0.37
+110,BMW,X2 xDrive28i,2.0,4,7.6,0.37
+111,BMW,X2 M35i,2.0,4,7.6,0.37
+112,BMW,X3 xDrive30i,2.0,4,8.5,0.37
+113,BMW,X3 M,3.0,6,11.7,0.37
+114,BMW,X3 M Competition,3.0,6,11.7,0.37
+115,BMW,X3 M40i,3.0,6,9.1,0.37
+116,BMW,X4 xDrive30i,2.0,4,8.5,0.37
+117,BMW,X4 M,3.0,6,11.7,0.37
+118,BMW,X4 M Competition,3.0,6,11.7,0.37
+119,BMW,X4 M40i,3.0,6,9.1,0.37
+120,BMW,X5 xDrive40i,3.0,6,9.2,0.4
+121,BMW,X5 M,4.4,8,13.0,0.4
+122,BMW,X5 M Competition,4.4,8,13.0,0.4
+123,BMW,X5 M50i,4.4,8,10.6,0.4
+124,BMW,X6 xDrive40i,3.0,6,9.2,0.4
+125,BMW,X6 M,4.4,8,13.0,0.4
+126,BMW,X6 M Competition,4.4,8,13.0,0.4
+127,BMW,X6 M50i,4.4,8,10.6,0.4
+128,BMW,X7 xDrive40i,3.0,6,9.8,0.4
+129,BMW,X7 M50i,4.4,8,11.5,0.4
+130,BMW,Z4 sDrive30i,2.0,4,7.4,0.32499999999999996
+131,BMW,Z4 M40i,3.0,6,8.1,0.32499999999999996
+132,Bugatti,Chiron,8.0,16,16.6,0.32499999999999996
+133,Bugatti,Chiron Pur Sport,8.0,16,20.9,0.32499999999999996
+134,Bugatti,Chiron Super Sport,8.0,16,20.9,0.32499999999999996
+135,Buick,Enclave,3.6,6,9.1,0.4
+136,Buick,Enclave AWD,3.6,6,9.6,0.4
+137,Buick,Encore,1.4,4,7.3,0.37
+138,Buick,Encore AWD,1.4,4,7.7,0.37
+139,Buick,Encore GX,1.2,3,7.6,0.37
+140,Buick,Encore GX,1.3,3,7.4,0.37
+141,Buick,Encore GX AWD,1.3,3,8.2,0.37
+142,Buick,Envision,2.0,4,7.6,0.37
+143,Buick,Envision AWD,2.0,4,8.2,0.37
+144,Cadillac,CT4,2.0,4,7.0,0.30000000000000004
+145,Cadillac,CT4,2.7,4,7.6,0.30000000000000004
+146,Cadillac,CT4 AWD,2.0,4,7.6,0.30000000000000004
+147,Cadillac,CT4 AWD,2.7,4,8.2,0.30000000000000004
+148,Cadillac,CT4-V,2.7,4,8.2,0.30000000000000004
+149,Cadillac,CT4-V AWD,2.7,4,8.4,0.30000000000000004
+150,Cadillac,CT4-V Blackwing,3.6,6,9.7,0.30000000000000004
+151,Cadillac,CT4-V Blackwing,3.6,6,10.2,0.30000000000000004
+152,Cadillac,CT5,2.0,4,7.1,0.30500000000000005
+153,Cadillac,CT5,3.0,6,8.7,0.30500000000000005
+154,Cadillac,CT5 AWD,2.0,4,7.8,0.30500000000000005
+155,Cadillac,CT5 AWD,3.0,6,9.1,0.30500000000000005
+156,Cadillac,CT5-V,3.0,6,8.7,0.30500000000000005
+157,Cadillac,CT5-V AWD,3.0,6,9.1,0.30500000000000005
+158,Cadillac,CT5-V Blackwing,6.2,8,10.7,0.30500000000000005
+159,Cadillac,CT5-V Blackwing,6.2,8,11.4,0.30500000000000005
+160,Cadillac,Escalade 4WD,3.0,6,9.0,0.4
+161,Cadillac,Escalade 4WD,6.2,8,12.7,0.4
+162,Cadillac,Escalade 4WD (No Stop-Start),6.2,8,12.7,0.4
+163,Cadillac,XT4,2.0,4,7.8,0.37
+164,Cadillac,XT4 AWD,2.0,4,8.2,0.37
+165,Cadillac,XT5,2.0,4,8.2,0.37
+166,Cadillac,XT5 AWD,2.0,4,8.7,0.37
+167,Cadillac,XT5 AWD,3.6,6,9.2,0.37
+168,Cadillac,XT6 AWD,2.0,4,9.0,0.37
+169,Cadillac,XT6 AWD,3.6,6,9.5,0.37
+170,Chevrolet,Blazer,2.0,4,8.0,0.37
+171,Chevrolet,Blazer,3.6,6,8.8,0.37
+172,Chevrolet,Blazer AWD,2.0,4,8.7,0.37
+173,Chevrolet,Blazer AWD,3.6,6,9.2,0.37
+174,Chevrolet,Camaro,2.0,4,7.8,0.32499999999999996
+175,Chevrolet,Camaro,2.0,4,8.0,0.32499999999999996
+176,Chevrolet,Camaro,3.6,6,8.1,0.32499999999999996
+177,Chevrolet,Camaro,3.6,6,9.1,0.32499999999999996
+178,Chevrolet,Camaro SS,6.2,8,8.9,0.32499999999999996
+179,Chevrolet,Camaro SS,6.2,8,9.9,0.32499999999999996
+180,Chevrolet,Camaro ZL1,6.2,8,11.2,0.32499999999999996
+181,Chevrolet,Camaro ZL1,6.2,8,12.0,0.32499999999999996
+182,Chevrolet,Colorado,2.5,4,9.4,0.41500000000000004
+183,Chevrolet,Colorado,2.8,4,7.9,0.41500000000000004
+184,Chevrolet,Colorado,3.6,6,9.3,0.41500000000000004
+185,Chevrolet,Colorado 4WD,2.5,4,9.9,0.41500000000000004
+186,Chevrolet,Colorado 4WD,2.8,4,8.4,0.41500000000000004
+187,Chevrolet,Colorado 4WD,3.6,6,9.9,0.41500000000000004
+188,Chevrolet,Colorado ZR2 4WD,2.8,4,10.6,0.41500000000000004
+189,Chevrolet,Colorado ZR2 4WD,3.6,6,13.0,0.41500000000000004
+190,Chevrolet,Corvette,6.2,8,9.6,0.32499999999999996
+191,Chevrolet,Equinox,1.5,4,7.7,0.37
+192,Chevrolet,Equinox AWD,1.5,4,8.0,0.37
+193,Chevrolet,Malibu,1.5,4,6.6,0.30500000000000005
+194,Chevrolet,Malibu,2.0,4,7.1,0.30500000000000005
+195,Chevrolet,Silverado,2.7,4,10.6,0.45
+196,Chevrolet,Silverado,3.0,6,7.5,0.45
+197,Chevrolet,Silverado FFV,5.3,8,12.3,0.45
+198,Chevrolet,Silverado FFV,5.3,8,16.0,0.45
+199,Chevrolet,Silverado,5.3,8,11.3,0.45
+200,Chevrolet,Silverado,5.3,8,11.3,0.45
+201,Chevrolet,Silverado 4WD,2.7,4,12.0,0.45
+202,Chevrolet,Silverado 4WD Mud Terrain Tire,2.7,4,13.1,0.45
+203,Chevrolet,Silverado 4WD,3.0,6,9.1,0.45
+204,Chevrolet,Silverado 4WD (With Sport Mode),3.0,6,9.1,0.45
+205,Chevrolet,Silverado 4WD Mud Terrain Tire,3.0,6,10.3,0.45
+206,Chevrolet,Silverado 4WD FFV,5.3,8,12.8,0.45
+207,Chevrolet,Silverado 4WD FFV,5.3,8,16.4,0.45
+208,Chevrolet,Silverado 4WD Mud Terrain Tire FFV,5.3,8,14.7,0.45
+209,Chevrolet,Silverado 4WD Mud Terrain Tire FFV,5.3,8,19.6,0.45
+210,Chevrolet,Silverado 4WD,5.3,8,11.9,0.45
+211,Chevrolet,Silverado 4WD Mud Terrain Tire,5.3,8,13.3,0.45
+212,Chevrolet,Silverado 4WD,5.3,8,11.8,0.45
+213,Chevrolet,Silverado 4WD (No DFM),5.3,8,12.4,0.45
+214,Chevrolet,Silverado 4WD (With Sport Mode),5.3,8,12.3,0.45
+215,Chevrolet,Silverado 4WD (No Stop-Start),5.3,8,12.4,0.45
+216,Chevrolet,Silverado 4WD Mud Terrain Tire,5.3,8,14.0,0.45
+217,Chevrolet,Silverado 4WD Mud Terrain Tire (No Stop-Start),5.3,8,13.9,0.45
+218,Chevrolet,Silverado 4WD Mud Terrain Tire (No DFM),5.3,8,13.8,0.45
+219,Chevrolet,Silverado 4WD,6.2,8,11.9,0.45
+220,Chevrolet,Silverado 4WD (No Stop-Start),6.2,8,12.3,0.45
+221,Chevrolet,Silverado 4WD Custom Trail Boss,6.2,8,13.2,0.45
+222,Chevrolet,Silverado 4WD Mud Terrain Tire,6.2,8,13.2,0.45
+223,Chevrolet,Silverado 4WD Mud Terrain Tire (No Stop-Start),6.2,8,14.2,0.45
+224,Chevrolet,Silverado 4WD ZR2,6.2,8,14.1,0.45
+225,Chevrolet,Spark,1.4,4,6.2,0.32499999999999996
+226,Chevrolet,Spark,1.4,4,6.2,0.32499999999999996
+227,Chevrolet,Suburban,3.0,6,8.7,0.4
+228,Chevrolet,Suburban,5.3,8,11.8,0.4
+229,Chevrolet,Suburban (No Stop-Start),5.3,8,11.9,0.4
+230,Chevrolet,Suburban 4WD,3.0,6,9.0,0.4
+231,Chevrolet,Suburban 4WD,5.3,8,12.4,0.4
+232,Chevrolet,Suburban 4WD (No Stop-Start),5.3,8,12.7,0.4
+233,Chevrolet,Suburban 4WD,6.2,8,12.7,0.4
+234,Chevrolet,Suburban 4WD (No Stop-Start),6.2,8,12.7,0.4
+235,Chevrolet,Tahoe,3.0,6,8.4,0.4
+236,Chevrolet,Tahoe,5.3,8,11.8,0.4
+237,Chevrolet,Tahoe (No Stop-Start),5.3,8,11.9,0.4
+238,Chevrolet,Tahoe 4WD,3.0,6,9.0,0.4
+239,Chevrolet,Tahoe 4WD,5.3,8,11.8,0.4
+240,Chevrolet,Tahoe 4WD (No Stop-Start),5.3,8,12.7,0.4
+241,Chevrolet,Tahoe 4WD,6.2,8,12.7,0.4
+242,Chevrolet,Tahoe 4WD (No Stop-Start),6.2,8,12.7,0.4
+243,Chevrolet,Trailblazer,1.2,3,7.6,0.37
+244,Chevrolet,Trailblazer,1.3,3,7.2,0.37
+245,Chevrolet,Trailblazer AWD,1.3,3,7.8,0.37
+246,Chevrolet,Traverse,3.6,6,8.8,0.4
+247,Chevrolet,Traverse AWD,3.6,6,9.6,0.4
+248,Chevrolet,Trax,1.4,4,7.3,0.37
+249,Chevrolet,Trax AWD,1.4,4,7.7,0.37
+250,Chrysler,300,3.6,6,7.8,0.315
+251,Chrysler,300,5.7,8,9.4,0.315
+252,Chrysler,300 AWD,3.6,6,8.7,0.315
+253,Chrysler,Grand Caravan,3.6,6,8.4,0.32499999999999996
+254,Chrysler,Pacifica,3.6,6,8.4,0.32499999999999996
+255,Chrysler,Pacifica AWD,3.6,6,9.4,0.32499999999999996
+256,Dodge,Challenger,3.6,6,7.8,0.30500000000000005
+257,Dodge,Challenger (MDS),5.7,8,9.4,0.30500000000000005
+258,Dodge,Challenger,5.7,8,10.1,0.30500000000000005
+259,Dodge,Challenger (MDS),6.4,8,9.6,0.30500000000000005
+260,Dodge,Challenger,6.4,8,10.4,0.30500000000000005
+261,Dodge,Challenger AWD,3.6,6,8.7,0.30500000000000005
+262,Dodge,Challenger Widebody (MDS),6.4,8,9.6,0.30500000000000005
+263,Dodge,Challenger Widebody,6.4,8,10.4,0.30500000000000005
+264,Dodge,Challenger SRT Hellcat,6.2,8,10.7,0.30500000000000005
+265,Dodge,Challenger SRT Hellcat,6.2,8,11.4,0.30500000000000005
+266,Dodge,Challenger SRT Hellcat Widebody,6.2,8,11.3,0.30500000000000005
+267,Dodge,Challenger SRT Hellcat Widebody,6.2,8,11.4,0.30500000000000005
+268,Dodge,Charger,3.6,6,7.8,0.315
+269,Dodge,Charger (MDS),5.7,8,9.4,0.315
+270,Dodge,Charger (MDS),6.4,8,9.6,0.315
+271,Dodge,Charger AWD,3.6,6,8.7,0.315
+272,Dodge,Charger Widebody (MDS),6.4,8,9.6,0.315
+273,Dodge,Charger SRT Hellcat Widebody,6.2,8,11.5,0.315
+274,Dodge,Durango AWD,3.6,6,9.6,0.4
+275,Dodge,Durango AWD,5.7,8,10.9,0.4
+276,Dodge,Durango AWD SRT,6.4,8,12.2,0.4
+277,FIAT,500X AWD,1.3,4,7.9,0.37
+278,Ford,Bronco 4WD,2.3,4,11.2,0.37
+279,Ford,Bronco 4WD,2.3,4,11.4,0.37
+280,Ford,Bronco 4WD,2.7,6,11.9,0.37
+281,Ford,Bronco Badlands 4WD,2.3,4,14.0,0.37
+282,Ford,Bronco Badlands 4WD,2.3,4,13.5,0.37
+283,Ford,Bronco Badlands 4WD,2.7,6,14.1,0.37
+284,Ford,Bronco Black Diamond 4WD,2.3,4,13.1,0.37
+285,Ford,Bronco Black Diamond 4WD,2.3,4,12.4,0.37
+286,Ford,Bronco Sasquatch 4WD,2.3,4,13.8,0.37
+287,Ford,Bronco Sasquatch 4WD,2.3,4,13.1,0.37
+288,Ford,Bronco Sasquatch 4WD,2.7,6,14.1,0.37
+289,Ford,Bronco Sport 4WD,1.5,3,8.4,0.37
+290,Ford,Bronco Sport 4WD,2.0,4,9.0,0.37
+291,Ford,EcoSport AWD,2.0,4,8.0,0.37
+292,Ford,Edge AWD,2.0,4,8.4,0.37
+293,Ford,Edge AWD,2.0,4,8.5,0.37
+294,Ford,Edge AWD,2.7,6,9.3,0.37
+295,Ford,Escape,1.5,3,6.8,0.37
+296,Ford,Escape AWD,1.5,3,7.6,0.37
+297,Ford,Escape AWD,2.0,4,7.5,0.37
+298,Ford,Escape Hybrid,2.5,4,6.3,0.37
+299,Ford,Escape Hybrid AWD,2.5,4,6.4,0.37
+300,Ford,Expedition 4X4,3.5,6,10.6,0.4
+301,Ford,Expedition 4X4 (Without Stop-Start),3.5,6,11.2,0.4
+302,Ford,Expedition Timberline 4X4,3.5,6,12.3,0.4
+303,Ford,Expedition Timberline 4X4 (Without Stop-Start),3.5,6,12.3,0.4
+304,Ford,Explorer AWD,2.3,4,8.6,0.4
+305,Ford,Explorer AWD (Without Stop-Start),2.3,4,9.0,0.4
+306,Ford,Explorer Timberline AWD,2.3,4,10.5,0.4
+307,Ford,Explorer Timberline AWD (Without Stop-Start),2.3,4,11.0,0.4
+308,Ford,Explorer AWD,3.0,6,9.8,0.4
+309,Ford,Explorer Hybrid AWD,3.3,6,9.0,0.4
+310,Ford,F-150,2.7,6,9.4,0.45
+311,Ford,F-150 (Without Stop-Start),2.7,6,10.1,0.45
+312,Ford,F-150 FFV,3.3,6,9.8,0.45
+313,Ford,F-150 FFV,3.3,6,12.8,0.45
+314,Ford,F-150,3.5,6,9.9,0.45
+315,Ford,F-150 (Without Stop-Start),3.5,6,10.0,0.45
+316,Ford,F-150 FFV,5.0,8,10.8,0.45
+317,Ford,F-150 FFV,5.0,8,14.3,0.45
+318,Ford,F-150 FFV (Without Stop-Start),5.0,8,10.6,0.45
+319,Ford,F-150 FFV (Without Stop-Start),5.0,8,14.1,0.45
+320,Ford,F-150 4X4,2.7,6,10.1,0.45
+321,Ford,F-150 4X4 FFV,3.3,6,10.7,0.45
+322,Ford,F-150 4X4 FFV,3.3,6,13.1,0.45
+323,Ford,F-150 4X4,3.5,6,10.3,0.45
+324,Ford,F-150 4X4 (Without Stop-Start),3.5,6,11.0,0.45
+325,Ford,F-150 4X4 FFV,5.0,8,10.8,0.45
+326,Ford,F-150 4X4 FFV,5.0,8,14.2,0.45
+327,Ford,F-150 4X4 FFV (Without Stop-Start),5.0,8,10.7,0.45
+328,Ford,F-150 4X4 FFV (Without Stop-Start),5.0,8,14.2,0.45
+329,Ford,F-150 Raptor 4X4,3.5,6,13.2,0.45
+330,Ford,F-150 Raptor 4X4 (Without Stop-Start),3.5,6,13.2,0.45
+331,Ford,F-150 Raptor 37 4X4,3.5,6,14.4,0.45
+332,Ford,F-150 Raptor 37 4X4 (Without Stop-Start),3.5,6,14.8,0.45
+333,Ford,F-150 Tremor 4X4,3.5,6,11.8,0.45
+334,Ford,F-150 Tremor 4X4 (Without Stop-Start),3.5,6,11.7,0.45
+335,Ford,F-150 Hybrid,3.5,6,9.7,0.45
+336,Ford,F-150 Hybrid 4X4,3.5,6,10.0,0.45
+337,Ford,GT,3.5,6,12.8,0.32499999999999996
+338,Ford,Maverick AWD,2.0,4,8.1,0.41500000000000004
+339,Ford,Maverick Hybrid,2.5,4,7.1,0.41500000000000004
+340,Ford,Mustang,2.3,4,7.4,0.32499999999999996
+341,Ford,Mustang,2.3,4,7.9,0.32499999999999996
+342,Ford,Mustang (High Performance),2.3,4,8.6,0.32499999999999996
+343,Ford,Mustang,2.3,4,8.2,0.32499999999999996
+344,Ford,Mustang (High Performance),2.3,4,8.7,0.32499999999999996
+345,Ford,Mustang,5.0,8,9.7,0.32499999999999996
+346,Ford,Mustang,5.0,8,10.1,0.32499999999999996
+347,Ford,Mustang Convertible,2.3,4,8.1,0.32499999999999996
+348,Ford,Mustang Convertible,2.3,4,8.5,0.32499999999999996
+349,Ford,Mustang Convertible (High Performance),2.3,4,8.9,0.32499999999999996
+350,Ford,Mustang Convertible,2.3,4,8.6,0.32499999999999996
+351,Ford,Mustang Convertible (High Performance),2.3,4,9.2,0.32499999999999996
+352,Ford,Mustang Convertible,5.0,8,10.4,0.32499999999999996
+353,Ford,Mustang Mach 1,5.0,8,10.1,0.32499999999999996
+354,Ford,Mustang Mach 1,5.0,8,11.2,0.32499999999999996
+355,Ford,Ranger 4WD,2.3,4,9.7,0.45
+356,Ford,Ranger 4WD (Without Stop-Start),2.3,4,9.7,0.45
+357,Ford,Ranger 4WD Tremor,2.3,4,12.3,0.45
+358,Ford,Shelby GT500 Mustang,5.2,8,12.7,0.32499999999999996
+359,Ford,Transit Connect Van,2.0,4,8.9,0.35
+360,Ford,Transit Connect Van FFV,2.0,4,8.9,0.35
+361,Ford,Transit Connect Van FFV,2.0,4,11.9,0.35
+362,Ford,Transit Connect Van,2.5,4,8.9,0.35
+363,Ford,Transit Connect Wagon LWB,2.0,4,8.3,0.35
+364,Ford,Transit Connect Wagon LWB FFV,2.0,4,8.3,0.35
+365,Ford,Transit Connect Wagon LWB FFV,2.0,4,11.3,0.35
+366,Ford,Transit Connect Wagon LWB,2.5,4,9.0,0.35
+367,Genesis,G70 AWD,3.3,6,9.1,0.30000000000000004
+368,Genesis,G80 AWD,2.5,4,7.9,0.315
+369,Genesis,G80 AWD,3.5,6,9.9,0.315
+370,Genesis,G90 AWD,5.0,8,10.1,0.315
+371,Genesis,GV70 AWD,2.5,4,8.4,0.37
+372,Genesis,GV70 AWD,3.5,6,10.0,0.37
+373,Genesis,GV80 AWD,2.5,4,9.5,0.4
+374,Genesis,GV80 AWD,3.5,6,10.4,0.4
+375,GMC,Acadia,2.0,4,8.0,0.4
+376,GMC,Acadia,3.6,6,8.8,0.4
+377,GMC,Acadia AWD,2.0,4,8.7,0.4
+378,GMC,Acadia AWD,3.6,6,9.2,0.4
+379,GMC,Canyon,2.5,4,9.4,0.41500000000000004
+380,GMC,Canyon,2.8,4,7.9,0.41500000000000004
+381,GMC,Canyon,3.6,6,9.3,0.41500000000000004
+382,GMC,Canyon 4WD,2.5,4,9.9,0.41500000000000004
+383,GMC,Canyon 4WD,2.8,4,8.4,0.41500000000000004
+384,GMC,Canyon 4WD,3.6,6,9.9,0.41500000000000004
+385,GMC,Sierra,2.7,4,10.6,0.45
+386,GMC,Sierra,3.0,6,7.8,0.45
+387,GMC,Sierra FFV,5.3,8,12.3,0.45
+388,GMC,Sierra FFV,5.3,8,16.0,0.45
+389,GMC,Sierra,5.3,8,11.3,0.45
+390,GMC,Sierra,5.3,8,11.3,0.45
+391,GMC,Sierra 4WD,2.7,4,12.0,0.45
+392,GMC,Sierra 4WD Mud Terrain Tire,2.7,4,13.1,0.45
+393,GMC,Sierra 4WD,3.0,6,9.1,0.45
+394,GMC,Sierra 4WD Mud Terrain Tire,3.0,6,10.3,0.45
+395,GMC,Sierra 4WD FFV,5.3,8,12.8,0.45
+396,GMC,Sierra 4WD FFV,5.3,8,16.4,0.45
+397,GMC,Sierra 4WD Mud Terrain Tire FFV,5.3,8,14.7,0.45
+398,GMC,Sierra 4WD Mud Terrain Tire FFV,5.3,8,19.6,0.45
+399,GMC,Sierra 4WD,5.3,8,11.9,0.45
+400,GMC,Sierra 4WD Mud Terrain Tire,5.3,8,13.3,0.45
+401,GMC,Sierra 4WD,5.3,8,12.0,0.45
+402,GMC,Sierra 4WD (No DFM),5.3,8,12.4,0.45
+403,GMC,Sierra 4WD (With Sport Mode),5.3,8,12.3,0.45
+404,GMC,Sierra 4WD (No Stop-Start),5.3,8,12.4,0.45
+405,GMC,Sierra 4WD Mud Terrain Tire,5.3,8,14.0,0.45
+406,GMC,Sierra 4WD Mud Terrain Tire (No DFM),5.3,8,13.8,0.45
+407,GMC,Sierra 4WD,6.2,8,11.9,0.45
+408,GMC,Sierra 4WD (No Stop-Start),6.2,8,12.3,0.45
+409,GMC,Sierra 4WD Mud Terrain Tire,6.2,8,13.2,0.45
+410,GMC,Sierra 4WD Mud Terrain Tire (No Stop-Start),6.2,8,14.2,0.45
+411,GMC,Terrain,1.5,4,7.8,0.37
+412,GMC,Terrain AWD,1.5,4,8.3,0.37
+413,GMC,Yukon,3.0,6,8.7,0.4
+414,GMC,Yukon,5.3,8,11.8,0.4
+415,GMC,Yukon (No Stop-Start),5.3,8,11.9,0.4
+416,GMC,Yukon 4WD,3.0,6,9.0,0.4
+417,GMC,Yukon 4WD,5.3,8,11.8,0.4
+418,GMC,Yukon 4WD (No Stop-Start),5.3,8,12.7,0.4
+419,GMC,Yukon 4WD,6.2,8,12.7,0.4
+420,GMC,Yukon 4WD (No Stop-Start),6.2,8,12.7,0.4
+421,GMC,Yukon XL,3.0,6,8.7,0.4
+422,GMC,Yukon XL,5.3,8,11.8,0.4
+423,GMC,Yukon XL (No Stop-Start),5.3,8,11.9,0.4
+424,GMC,Yukon XL 4WD,3.0,6,9.0,0.4
+425,GMC,Yukon XL 4WD,5.3,8,12.4,0.4
+426,GMC,Yukon XL 4WD (No Stop-Start),5.3,8,12.7,0.4
+427,GMC,Yukon XL 4WD,6.2,8,12.7,0.4
+428,GMC,Yukon XL 4WD (No Stop-Start),6.2,8,12.7,0.4
+429,Honda,Accord,1.5,4,6.5,0.315
+430,Honda,Accord Sport/Touring,1.5,4,6.8,0.315
+431,Honda,Accord Sport/Touring,2.0,4,7.4,0.315
+432,Honda,Accord Hybrid,2.0,4,5.0,0.315
+433,Honda,Accord Hybrid Sport/Touring,2.0,4,5.7,0.315
+434,Honda,Civic Hatchback,1.5,4,6.3,0.315
+435,Honda,Civic Hatchback,1.5,4,6.3,0.315
+436,Honda,Civic Hatchback,2.0,4,6.2,0.315
+437,Honda,Civic Hatchback,2.0,4,6.6,0.315
+438,Honda,Civic Sedan,1.5,4,6.1,0.30500000000000005
+439,Honda,Civic Sedan,2.0,4,6.0,0.30500000000000005
+440,Honda,Civic Sedan,2.0,4,6.3,0.30500000000000005
+441,Honda,Civic Sedan Si,1.5,4,6.4,0.30500000000000005
+442,Honda,CR-V,1.5,4,7.0,0.37
+443,Honda,CR-V AWD,1.5,4,7.4,0.37
+444,Honda,HR-V,1.8,4,7.0,0.32499999999999996
+445,Honda,HR-V AWD,1.8,4,7.5,0.32499999999999996
+446,Honda,HR-V AWD,1.8,4,7.7,0.32499999999999996
+447,Honda,Odyssey,3.5,6,8.5,0.32499999999999996
+448,Honda,Passport AWD,3.5,6,9.8,0.37
+449,Honda,Pilot AWD,3.5,6,9.3,0.37
+450,Honda,Pilot AWD TrailSport,3.5,6,9.5,0.37
+451,Honda,Ridgeline AWD,3.5,6,9.9,0.45
+452,Hyundai,Elantra,1.6,4,6.6,0.30500000000000005
+453,Hyundai,Elantra,2.0,4,5.7,0.30500000000000005
+454,Hyundai,Elantra (ISG),2.0,4,5.5,0.30500000000000005
+455,Hyundai,Elantra,2.0,4,6.3,0.30500000000000005
+456,Hyundai,Elantra N,2.0,4,7.9,0.30500000000000005
+457,Hyundai,Elantra N,2.0,4,7.7,0.30500000000000005
+458,Hyundai,Elantra Hybrid Blue,1.6,4,4.2,0.30500000000000005
+459,Hyundai,IONIQ,1.6,4,4.1,0.315
+460,Hyundai,IONIQ Blue,1.6,4,3.9,0.315
+461,Hyundai,Kona,2.0,4,6.6,0.37
+462,Hyundai,Kona N,2.0,4,8.7,0.37
+463,Hyundai,Kona AWD,1.6,4,7.4,0.37
+464,Hyundai,Kona AWD,2.0,4,7.2,0.37
+465,Hyundai,Palisade AWD,3.8,6,9.6,0.4
+466,Hyundai,Santa Cruz AWD,2.5,4,8.6,0.41500000000000004
+467,Hyundai,Santa Fe AWD,2.5,4,8.5,0.37
+468,Hyundai,Santa Fe AWD,2.5,4,9.3,0.37
+469,Hyundai,Santa Fe Hybrid,1.6,4,7.9,0.37
+470,Hyundai,Sonata,1.6,4,6.4,0.315
+471,Hyundai,Sonata,2.5,4,7.2,0.315
+472,Hyundai,Sonata,2.5,4,6.4,0.315
+473,Hyundai,Sonata Hybrid,2.0,4,4.6,0.315
+474,Hyundai,Tucson,2.5,4,7.1,0.37
+475,Hyundai,Tucson AWD,2.5,4,8.0,0.37
+476,Hyundai,Tucson Hybrid,1.6,4,6.6,0.37
+477,Hyundai,Veloster N,2.0,4,8.6,0.30000000000000004
+478,Hyundai,Veloster N,2.0,4,8.3,0.30000000000000004
+479,Hyundai,Venue,1.6,4,6.9,0.30500000000000005
+480,Hyundai,Venue,1.6,4,6.8,0.30500000000000005
+481,Infiniti,Q50 AWD,3.0,6,8.7,0.30500000000000005
+482,Infiniti,Q50 AWD Red Sport,3.0,6,9.3,0.30500000000000005
+483,Infiniti,Q60 AWD,3.0,6,8.7,0.32499999999999996
+484,Infiniti,Q60 AWD Red Sport,3.0,6,9.2,0.32499999999999996
+485,Infiniti,QX50 AWD,2.0,4,8.3,0.37
+486,Infiniti,QX55 AWD,2.0,4,8.3,0.37
+487,Infiniti,QX60 AWD,3.5,6,9.5,0.4
+488,Infiniti,QX80 4WD,5.6,8,12.2,0.4
+489,Jaguar,E-PACE P250,2.0,4,9.2,0.37
+490,Jaguar,E-PACE P300,2.0,4,9.2,0.37
+491,Jaguar,F-TYPE P450 Convertible,5.0,8,9.7,0.32499999999999996
+492,Jaguar,F-TYPE P450 Convertible AWD,5.0,8,9.8,0.32499999999999996
+493,Jaguar,F-TYPE P450 Coupe,5.0,8,9.7,0.32499999999999996
+494,Jaguar,F-TYPE P450 Coupe AWD,5.0,8,9.8,0.32499999999999996
+495,Jaguar,F-TYPE R Convertible AWD,5.0,8,9.8,0.32499999999999996
+496,Jaguar,F-TYPE R Coupe AWD,5.0,8,9.8,0.32499999999999996
+497,Jeep,Cherokee,2.0,4,7.6,0.37
+498,Jeep,Cherokee,2.4,4,7.5,0.37
+499,Jeep,Cherokee,3.2,6,8.2,0.37
+500,Jeep,Cherokee 4X4 Active Drive I,2.0,4,8.0,0.37
+501,Jeep,Cherokee 4X4 Active Drive I,2.4,4,8.0,0.37
+502,Jeep,Cherokee 4X4 Active Drive I,3.2,6,8.6,0.37
+503,Jeep,Cherokee 4X4 Active Drive Lock,3.2,6,9.7,0.37
+504,Jeep,Compass,2.4,4,7.6,0.37
+505,Jeep,Compass 4X4,2.4,4,7.8,0.37
+506,Jeep,Gladiator 4X4 EcoDiesel,3.0,6,8.5,0.45
+507,Jeep,Gladiator 4X4 Rubicon EcoDiesel,3.0,6,8.7,0.45
+508,Jeep,Gladiator 4X4,3.6,6,10.7,0.45
+509,Jeep,Gladiator 4X4,3.6,6,10.4,0.45
+510,Jeep,Grand Cherokee 4X4,3.6,6,9.2,0.4
+511,Jeep,Grand Cherokee 4X4,5.7,8,10.9,0.4
+512,Jeep,Grand Cherokee L 4X4,3.6,6,9.4,0.4
+513,Jeep,Grand Cherokee L 4X4,5.7,8,10.9,0.4
+514,Jeep,Grand Cherokee WK 4X4,3.6,6,9.6,0.4
+515,Jeep,Grand Wagoneer 4X4,6.4,8,12.8,0.4
+516,Jeep,Renegade,1.3,4,7.4,0.37
+517,Jeep,Renegade 4X4,1.3,4,8.1,0.37
+518,Jeep,Renegade 4X4 Trailhawk,1.3,4,8.7,0.37
+519,Jeep,Wagoneer 4X4,5.7,8,11.7,0.4
+520,Jeep,Wrangler JL 4X4,2.0,4,9.8,0.37
+521,Jeep,Wrangler JL 4X4,3.6,6,10.4,0.37
+522,Jeep,Wrangler JL 4X4 eTorque,3.6,6,9.8,0.37
+523,Jeep,Wrangler JL 4X4,3.6,6,9.6,0.37
+524,Jeep,Wrangler JL Unlimited 4X4,2.0,4,9.9,0.37
+525,Jeep,Wrangler JL Unlimited 4X4 EcoDiesel,3.0,6,8.1,0.37
+526,Jeep,Wrangler JL Unlimited 4X4 Rubicon EcoDiesel,3.0,6,9.0,0.37
+527,Jeep,Wrangler JL Unlimited 4X4,3.6,6,10.2,0.37
+528,Jeep,Wrangler JL Unlimited 4X4 eTorque,3.6,6,9.9,0.37
+529,Jeep,Wrangler JL Unlimited 4X4,3.6,6,10.1,0.37
+530,Jeep,Wrangler JL Unlimited 4X4,6.4,8,14.1,0.37
+531,Kia,Carnival,3.5,6,8.9,0.32499999999999996
+532,Kia,Forte,1.6,4,6.6,0.30500000000000005
+533,Kia,Forte,2.0,4,5.9,0.30500000000000005
+534,Kia,Forte,2.0,4,6.1,0.30500000000000005
+535,Kia,Forte 5,1.6,4,6.9,0.315
+536,Kia,Forte 5,2.0,4,6.0,0.315
+537,Kia,K5,2.5,4,7.3,0.315
+538,Kia,K5 AWD,1.6,4,7.0,0.315
+539,Kia,Niro,1.6,4,4.9,0.32499999999999996
+540,Kia,Niro FE,1.6,4,4.9,0.32499999999999996
+541,Kia,Niro Touring,1.6,4,5.6,0.32499999999999996
+542,Kia,Rio,1.6,4,6.0,0.30000000000000004
+543,Kia,Rio,1.6,4,6.1,0.30000000000000004
+544,Kia,Seltos,2.0,4,7.1,0.37
+545,Kia,Seltos AWD,1.6,4,7.9,0.37
+546,Kia,Seltos AWD,2.0,4,7.6,0.37
+547,Kia,Sorento AWD,2.5,4,8.7,0.37
+548,Kia,Sorento AWD,2.5,4,9.2,0.37
+549,Kia,Sorento Hybrid AWD,1.6,4,7.0,0.37
+550,Kia,Soul,2.0,4,7.0,0.32499999999999996
+551,Kia,Sportage,2.4,4,7.6,0.37
+552,Kia,Sportage AWD,2.0,4,9.6,0.37
+553,Kia,Sportage AWD,2.4,4,9.1,0.37
+554,Kia,Stinger AWD,3.3,6,9.6,0.30500000000000005
+555,Kia,Telluride AWD,3.8,6,9.7,0.37
+556,Lamborghini,Aventador Countach,6.5,12,14.6,0.32499999999999996
+557,Lamborghini,Aventador Coupe,6.5,12,15.1,0.32499999999999996
+558,Lamborghini,Aventador Roadster,6.5,12,15.1,0.32499999999999996
+559,Lamborghini,Huracan evo Coupe,5.2,10,12.9,0.32499999999999996
+560,Lamborghini,Huracan evo Coupe AWD,5.2,10,12.9,0.32499999999999996
+561,Lamborghini,Huracan evo Spyder,5.2,10,12.9,0.32499999999999996
+562,Lamborghini,Huracan evo Spyder AWD,5.2,10,12.9,0.32499999999999996
+563,Lamborghini,Urus,4.0,8,14.1,0.4
+564,Land Rover,Defender 90 P300,2.0,4,11.3,0.4
+565,Land Rover,Defender 90 P400,3.0,6,10.8,0.4
+566,Land Rover,Defender 90 5.0L V8,5.0,8,12.4,0.4
+567,Land Rover,Defender 110 P300,2.0,4,11.7,0.4
+568,Land Rover,Defender 110 P400,3.0,6,10.8,0.4
+569,Land Rover,Defender 110 5.0L V8,5.0,8,12.7,0.4
+570,Land Rover,Discovery P300,2.0,4,10.6,0.4
+571,Land Rover,Discovery P360,3.0,6,9.8,0.4
+572,Land Rover,Range Rover P360,3.0,6,10.2,0.4
+573,Land Rover,Range Rover P400,3.0,6,10.2,0.4
+574,Land Rover,Range Rover P525,5.0,8,11.3,0.4
+575,Land Rover,Range Rover P525 LWB,5.0,8,11.3,0.4
+576,Land Rover,Range Rover SVAutobiography,5.0,8,12.6,0.4
+577,Land Rover,Range Rover SVAutobiography LWB,5.0,8,12.7,0.4
+578,Land Rover,Range Rover Sport P360,3.0,6,9.9,0.4
+579,Land Rover,Range Rover Sport HST P400,3.0,6,9.9,0.4
+580,Land Rover,Range Rover Sport P525,5.0,8,10.7,0.4
+581,Land Rover,Range Rover Sport P575 SVR,5.0,8,12.0,0.4
+582,Lexus,ES 250 AWD,2.5,4,7.0,0.30500000000000005
+583,Lexus,ES 300h,2.5,4,5.2,0.30500000000000005
+584,Lexus,ES 350,3.5,6,7.3,0.30500000000000005
+585,Lexus,ES 350 F SPORT,3.5,6,7.5,0.30500000000000005
+586,Lexus,GX 460,4.6,8,12.3,0.4
+587,Lexus,IS 300,2.0,4,7.6,0.30000000000000004
+588,Lexus,IS 300 AWD,3.5,6,9.0,0.30000000000000004
+589,Lexus,IS 350 AWD,3.5,6,9.0,0.30000000000000004
+590,Lexus,IS 500,5.0,8,9.3,0.30000000000000004
+591,Lexus,LC 500,5.0,8,9.6,0.32499999999999996
+592,Lexus,LC 500 Convertible,5.0,8,9.5,0.32499999999999996
+593,Lexus,LC 500h,3.5,6,7.1,0.32499999999999996
+594,Lexus,LS 500 AWD,3.4,6,8.7,0.30500000000000005
+595,Lexus,LS 500h AWD,3.5,6,8.1,0.30500000000000005
+596,Lexus,LX 600,3.4,6,10.8,0.4
+597,Lexus,NX 250 AWD,2.5,4,7.4,0.37
+598,Lexus,NX 350 AWD,2.4,4,8.3,0.37
+599,Lexus,NX 350 AWD F SPORT,2.4,4,8.4,0.37
+600,Lexus,NX 350h AWD,2.5,4,6.4,0.37
+601,Lexus,RC 300 AWD,3.5,6,9.0,0.32499999999999996
+602,Lexus,RC 350 AWD,3.5,6,9.0,0.32499999999999996
+603,Lexus,RC F,5.0,8,9.6,0.32499999999999996
+604,Lexus,RX 350 AWD,3.5,6,9.0,0.37
+605,Lexus,RX 350 L AWD,3.5,6,9.4,0.37
+606,Lexus,RX 450h AWD,3.5,6,8.4,0.4
+607,Lexus,RX 450h L AWD,3.5,6,8.4,0.4
+608,Lexus,UX 200,2.0,4,6.3,0.30500000000000005
+609,Lexus,UX 250h AWD,2.0,4,6.2,0.30000000000000004
+610,Lincoln,Aviator AWD,3.0,6,9.7,0.4
+611,Lincoln,Corsair AWD,2.0,4,8.1,0.37
+612,Lincoln,Corsair AWD,2.3,4,8.3,0.37
+613,Lincoln,Nautilus AWD,2.0,4,9.4,0.37
+614,Lincoln,Nautilus AWD,2.0,4,9.4,0.37
+615,Lincoln,Nautilus AWD,2.7,6,9.3,0.37
+616,Lincoln,Navigator 4X4,3.5,6,10.8,0.4
+617,Maserati,Ghibli GT,3.0,6,9.4,0.30500000000000005
+618,Maserati,Ghibli Modena,3.0,6,9.4,0.30500000000000005
+619,Maserati,Ghibli Modena AWD,3.0,6,9.8,0.30500000000000005
+620,Maserati,Ghibli Trofeo,3.8,8,11.9,0.30500000000000005
+621,Maserati,Levante GT,3.0,6,10.9,0.4
+622,Maserati,Levante Modena,3.0,6,10.9,0.4
+623,Maserati,Levante Modena V8,3.8,8,12.0,0.4
+624,Maserati,Levante Trofeo,3.8,8,12.0,0.4
+625,Maserati,MC20,3.0,6,9.5,0.32499999999999996
+626,Maserati,Quattroporte GT,3.0,6,9.3,0.315
+627,Maserati,Quattroporte Modena,3.0,6,9.3,0.315
+628,Maserati,Quattroporte Modena AWD,3.0,6,9.8,0.315
+629,Maserati,Quattroporte Trofeo,3.8,8,11.9,0.315
+630,Mazda,CX-3,2.0,4,6.9,0.30000000000000004
+631,Mazda,CX-3 (SIL),2.0,4,7.0,0.30000000000000004
+632,Mazda,CX-3 4WD,2.0,4,7.4,0.30000000000000004
+633,Mazda,CX-30 4WD,2.0,4,7.7,0.37
+634,Mazda,CX-30 4WD,2.5,4,7.7,0.37
+635,Mazda,CX-30 Turbo 4WD,2.5,4,7.9,0.37
+636,Mazda,CX-5 4WD,2.5,4,8.2,0.37
+637,Mazda,CX-5 4WD (Cylinder Deactivation),2.5,4,7.9,0.37
+638,Mazda,CX-5 Turbo 4WD,2.5,4,8.7,0.37
+639,Mazda,CX-9 4WD,2.5,4,9.0,0.37
+640,Mazda,Mazda3 4-Door,2.0,4,6.6,0.30000000000000004
+641,Mazda,Mazda3 4-Door (SIL),2.0,4,6.4,0.30000000000000004
+642,Mazda,Mazda3 4-Door,2.5,4,6.5,0.30000000000000004
+643,Mazda,Mazda3 4-Door 4WD,2.5,4,7.2,0.30000000000000004
+644,Mazda,Mazda3 4-Door Turbo 4WD,2.5,4,7.3,0.30000000000000004
+645,Mazda,Mazda3 5-Door,2.0,4,6.7,0.30500000000000005
+646,Mazda,Mazda3 5-Door (SIL),2.0,4,6.6,0.30500000000000005
+647,Mazda,Mazda3 5-Door,2.5,4,6.8,0.30500000000000005
+648,Mazda,Mazda3 5-Door (SIL),2.5,4,7.1,0.30500000000000005
+649,Mazda,Mazda3 5-Door 4WD,2.5,4,7.4,0.30500000000000005
+650,Mazda,Mazda3 5-Door Turbo 4WD,2.5,4,7.5,0.30500000000000005
+651,Mazda,MX-5,2.0,4,6.6,0.32499999999999996
+652,Mazda,MX-5 (SIL),2.0,4,7.0,0.32499999999999996
+653,Mercedes-Benz,A 220 4MATIC Sedan,2.0,4,6.8,0.32499999999999996
+654,Mercedes-Benz,A 250 4MATIC Hatch,2.0,4,7.0,0.32499999999999996
+655,Mercedes-Benz,AMG A 35 4MATIC Sedan,2.0,4,7.9,0.32499999999999996
+656,Mercedes-Benz,AMG A 35 4MATIC Hatch,2.0,4,7.8,0.32499999999999996
+657,Mercedes-Benz,AMG C 43 4MATIC Cabriolet,3.0,6,8.7,0.32499999999999996
+658,Mercedes-Benz,AMG C 43 4MATIC Coupe,3.0,6,8.5,0.32499999999999996
+659,Mercedes-Benz,AMG CLA 35 4MATIC Coupe,2.0,4,8.2,0.30000000000000004
+660,Mercedes-Benz,AMG CLA 45 4MATIC Coupe,2.0,4,8.5,0.30000000000000004
+661,Mercedes-Benz,AMG CLS 53 4MATIC+ Coupe,3.0,6,8.8,0.30000000000000004
+662,Mercedes-Benz,AMG E 53 4MATIC+ Sedan,3.0,6,8.3,0.30500000000000005
+663,Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,3.0,6,8.9,0.32499999999999996
+664,Mercedes-Benz,AMG E 53 4MATIC+ Coupe,3.0,6,8.4,0.32499999999999996
+665,Mercedes-Benz,AMG GLA 35 4MATIC SUV,2.0,4,8.4,0.32499999999999996
+666,Mercedes-Benz,AMG GLA 45 4MATIC SUV,2.0,4,9.6,0.32499999999999996
+667,Mercedes-Benz,AMG GLB 35 4MATIC SUV,2.0,4,9.4,0.33999999999999997
+668,Mercedes-Benz,AMG GLC 43 4MATIC SUV,3.0,6,9.3,0.37
+669,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,3.0,6,10.1,0.37
+670,Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,3.0,6,10.6,0.4
+671,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,3.0,6,11.1,0.4
+672,Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,3.0,6,9.4,0.30000000000000004
+673,Mercedes-Benz,C 300 4MATIC Cabriolet,2.0,4,8.0,0.32499999999999996
+674,Mercedes-Benz,C 300 4MATIC Coupe,2.0,4,7.5,0.32499999999999996
+675,Mercedes-Benz,CLA 250 4MATIC Coupe,2.0,4,7.0,0.30000000000000004
+676,Mercedes-Benz,CLS 450 4MATIC Coupe,3.0,6,8.2,0.30000000000000004
+677,Mercedes-Benz,E 350 4MATIC Sedan,2.0,4,8.2,0.30500000000000005
+678,Mercedes-Benz,E 450 4MATIC Sedan,3.0,6,7.9,0.30500000000000005
+679,Mercedes-Benz,E 450 4MATIC Cabriolet,3.0,6,8.4,0.32499999999999996
+680,Mercedes-Benz,E 450 4MATIC Coupe,3.0,6,8.0,0.32499999999999996
+681,Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,3.0,6,8.3,0.33999999999999997
+682,Mercedes-Benz,GLA 250 4MATIC SUV,2.0,4,7.3,0.37
+683,Mercedes-Benz,GLB 250 4MATIC SUV,2.0,4,7.9,0.37
+684,Mercedes-Benz,GLC 300 4MATIC SUV,2.0,4,9.1,0.37
+685,Mercedes-Benz,GLC 300 4MATIC Coupe,2.0,4,8.5,0.37
+686,Mercedes-Benz,GLE 350 4MATIC SUV,2.0,4,8.9,0.4
+687,Mercedes-Benz,GLE 450 4MATIC SUV,3.0,6,9.3,0.4
+688,Mercedes-Benz,GLE 450 4MATIC Coupe,3.0,6,9.2,0.4
+689,Mercedes-Benz,GLS 450 4MATIC SUV,3.0,6,10.0,0.4
+690,Mercedes-Benz,Maybach S 580 4MATIC Sedan,4.0,8,9.9,0.315
+691,Mercedes-Benz,Metris Cargo Van,2.0,4,10.1,0.35
+692,Mercedes-Benz,Metris Cargo Van LWB,2.0,4,10.1,0.35
+693,Mercedes-Benz,Metris Passenger Van,2.0,4,10.6,0.35
+694,Mercedes-Benz,S 500 4MATIC SWB Sedan,3.0,6,8.0,0.315
+695,Mercedes-Benz,S 580 4MATIC LWB Sedan,4.0,8,9.5,0.315
+696,MINI,Cooper 3 Door,1.5,3,6.2,0.32499999999999996
+697,MINI,Cooper 3 Door,1.5,3,6.3,0.32499999999999996
+698,MINI,Cooper 5 Door,1.5,3,6.2,0.32499999999999996
+699,MINI,Cooper 5 Door,1.5,3,6.3,0.32499999999999996
+700,MINI,Cooper Convertible,1.5,3,6.2,0.32499999999999996
+701,MINI,Cooper Convertible,1.5,3,6.3,0.32499999999999996
+702,MINI,Cooper Countryman ALL4,1.5,3,7.7,0.30500000000000005
+703,MINI,Cooper S 3 Door,2.0,4,6.2,0.32499999999999996
+704,MINI,Cooper S 3 Door,2.0,4,7.3,0.32499999999999996
+705,MINI,Cooper S 5 Door,2.0,4,6.2,0.32499999999999996
+706,MINI,Cooper S 5 Door,2.0,4,7.3,0.32499999999999996
+707,MINI,Cooper S Clubman ALL4,2.0,4,7.4,0.30500000000000005
+708,MINI,Cooper S Convertible,2.0,4,6.5,0.32499999999999996
+709,MINI,Cooper S Convertible,2.0,4,7.1,0.32499999999999996
+710,MINI,Cooper S Countryman ALL4,2.0,4,7.5,0.30500000000000005
+711,MINI,John Cooper Works 3 Door,2.0,4,6.9,0.32499999999999996
+712,MINI,John Cooper Works 3 Door,2.0,4,7.3,0.32499999999999996
+713,MINI,John Cooper Works Clubman ALL4,2.0,4,7.6,0.30500000000000005
+714,MINI,John Cooper Works Convertible,2.0,4,7.2,0.32499999999999996
+715,MINI,John Cooper Works Countryman ALL4,2.0,4,7.8,0.30500000000000005
+716,Mitsubishi,Eclipse Cross 4WD,1.5,4,8.9,0.37
+717,Mitsubishi,Mirage,1.2,3,5.6,0.30000000000000004
+718,Mitsubishi,Mirage,1.2,3,5.8,0.30000000000000004
+719,Mitsubishi,Outlander 4WD,2.5,4,7.9,0.37
+720,Mitsubishi,RVR,2.0,4,7.8,0.37
+721,Mitsubishi,RVR 4WD,2.0,4,8.2,0.37
+722,Mitsubishi,RVR 4WD,2.4,4,8.3,0.37
+723,Nissan,Altima AWD,2.5,4,6.5,0.30500000000000005
+724,Nissan,Altima AWD SR/Platinum,2.5,4,6.7,0.30500000000000005
+725,Nissan,Armada 4WD,5.6,8,12.9,0.4
+726,Nissan,Frontier,3.8,6,9.5,0.45
+727,Nissan,Frontier 4WD,3.8,6,10.6,0.45
+728,Nissan,Kicks,1.6,4,6.6,0.30500000000000005
+729,Nissan,Maxima,3.5,6,7.9,0.30500000000000005
+730,Nissan,Murano AWD,3.5,6,8.5,0.33999999999999997
+731,Nissan,Pathfinder 4WD,3.5,6,9.2,0.37
+732,Nissan,Qashqai,2.0,4,7.3,0.32499999999999996
+733,Nissan,Qashqai,2.0,4,7.9,0.32499999999999996
+734,Nissan,Qashqai AWD,2.0,4,7.5,0.32499999999999996
+735,Nissan,Rogue,1.5,3,6.5,0.37
+736,Nissan,Rogue,2.5,4,7.1,0.37
+737,Nissan,Rogue AWD,1.5,3,6.7,0.37
+738,Nissan,Rogue AWD SL/Platinum,1.5,3,6.8,0.37
+739,Nissan,Rogue AWD,2.5,4,7.2,0.37
+740,Nissan,Sentra,2.0,4,6.0,0.30500000000000005
+741,Nissan,Sentra SR,2.0,4,6.1,0.30500000000000005
+742,Nissan,Sentra,2.0,4,6.2,0.30500000000000005
+743,Nissan,Sentra SR,2.0,4,6.4,0.30500000000000005
+744,Nissan,Versa,1.6,4,5.9,0.30000000000000004
+745,Nissan,Versa,1.6,4,6.7,0.30000000000000004
+746,Porsche,718 Boxster,2.0,4,8.7,0.32499999999999996
+747,Porsche,718 Boxster,2.0,4,8.9,0.32499999999999996
+748,Porsche,718 Boxster T,2.0,4,8.7,0.32499999999999996
+749,Porsche,718 Boxster T,2.0,4,8.9,0.32499999999999996
+750,Porsche,718 Boxster S,2.5,4,9.2,0.32499999999999996
+751,Porsche,718 Boxster S,2.5,4,9.6,0.32499999999999996
+752,Porsche,718 Boxster GTS 4.0,4.0,6,9.8,0.32499999999999996
+753,Porsche,718 Boxster GTS 4.0,4.0,6,10.0,0.32499999999999996
+754,Porsche,718 Cayman,2.0,4,8.7,0.32499999999999996
+755,Porsche,718 Cayman,2.0,4,8.9,0.32499999999999996
+756,Porsche,718 Cayman T,2.0,4,8.7,0.32499999999999996
+757,Porsche,718 Cayman T,2.0,4,8.9,0.32499999999999996
+758,Porsche,718 Cayman S,2.5,4,9.2,0.32499999999999996
+759,Porsche,718 Cayman S,2.5,4,9.6,0.32499999999999996
+760,Porsche,718 Cayman GT4,4.0,6,9.9,0.32499999999999996
+761,Porsche,718 Cayman GT4,4.0,6,10.1,0.32499999999999996
+762,Porsche,718 Cayman GTS 4.0,4.0,6,9.8,0.32499999999999996
+763,Porsche,718 Cayman GTS 4.0,4.0,6,10.0,0.32499999999999996
+764,Porsche,718 Spyder,4.0,6,9.9,0.32499999999999996
+765,Porsche,718 Spyder,4.0,6,10.1,0.32499999999999996
+766,Porsche,911 Carrera,3.0,6,9.8,0.32499999999999996
+767,Porsche,911 Carrera Cabriolet,3.0,6,9.8,0.32499999999999996
+768,Porsche,911 Carrera 4,3.0,6,9.8,0.32499999999999996
+769,Porsche,911 Carrera 4 Cabriolet,3.0,6,9.7,0.32499999999999996
+770,Porsche,911 Carrera S,3.0,6,10.2,0.32499999999999996
+771,Porsche,911 Carrera S,3.0,6,9.4,0.32499999999999996
+772,Porsche,911 Carrera S Cabriolet,3.0,6,10.2,0.32499999999999996
+773,Porsche,911 Carrera S Cabriolet,3.0,6,9.4,0.32499999999999996
+774,Porsche,911 Carrera 4S,3.0,6,10.2,0.32499999999999996
+775,Porsche,911 Carrera 4S,3.0,6,9.3,0.32499999999999996
+776,Porsche,911 Carrera 4S Cabriolet,3.0,6,10.2,0.32499999999999996
+777,Porsche,911 Carrera 4S Cabriolet,3.0,6,9.8,0.32499999999999996
+778,Porsche,911 Carrera GTS,3.0,6,10.1,0.32499999999999996
+779,Porsche,911 Carrera GTS,3.0,6,9.8,0.32499999999999996
+780,Porsche,911 Carrera GTS Cabriolet,3.0,6,10.2,0.32499999999999996
+781,Porsche,911 Carrera GTS Cabriolet,3.0,6,9.6,0.32499999999999996
+782,Porsche,911 Carrera 4 GTS,3.0,6,10.1,0.32499999999999996
+783,Porsche,911 Carrera 4 GTS,3.0,6,10.2,0.32499999999999996
+784,Porsche,911 Carrera 4 GTS Cabriolet,3.0,6,10.7,0.32499999999999996
+785,Porsche,911 Carrera 4 GTS Cabriolet,3.0,6,10.2,0.32499999999999996
+786,Porsche,911 GT3,4.0,6,12.7,0.32499999999999996
+787,Porsche,911 GT3,4.0,6,13.1,0.32499999999999996
+788,Porsche,911 GT3 Touring,4.0,6,12.7,0.32499999999999996
+789,Porsche,911 GT3 Touring,4.0,6,13.1,0.32499999999999996
+790,Porsche,911 Targa 4,3.0,6,9.8,0.32499999999999996
+791,Porsche,911 Targa 4S,3.0,6,10.2,0.32499999999999996
+792,Porsche,911 Targa 4S,3.0,6,9.8,0.32499999999999996
+793,Porsche,911 Targa 4 GTS,3.0,6,10.7,0.32499999999999996
+794,Porsche,911 Targa 4 GTS,3.0,6,10.2,0.32499999999999996
+795,Porsche,911 Turbo,3.7,6,11.9,0.32499999999999996
+796,Porsche,911 Turbo Cabriolet,3.7,6,11.8,0.32499999999999996
+797,Porsche,911 Turbo S,3.7,6,11.8,0.32499999999999996
+798,Porsche,911 Turbo S Cabriolet,3.7,6,11.8,0.32499999999999996
+799,Porsche,Cayenne,3.0,6,10.7,0.4
+800,Porsche,Cayenne Coupe,3.0,6,10.7,0.4
+801,Porsche,Cayenne S,2.9,6,10.6,0.4
+802,Porsche,Cayenne S Coupe,2.9,6,11.2,0.4
+803,Porsche,Cayenne GTS,4.0,8,12.3,0.4
+804,Porsche,Cayenne GTS Coupe,4.0,8,12.4,0.4
+805,Porsche,Cayenne Turbo,4.0,8,12.4,0.4
+806,Porsche,Cayenne Turbo Coupe,4.0,8,12.0,0.4
+807,Porsche,Cayenne Turbo GT,4.0,8,12.4,0.4
+808,Porsche,Macan,2.0,4,9.3,0.37
+809,Porsche,Macan S,2.9,6,10.1,0.37
+810,Porsche,Macan GTS,2.9,6,10.7,0.37
+811,Porsche,Panamera,2.9,6,9.8,0.315
+812,Porsche,Panamera 4,2.9,6,9.8,0.315
+813,Porsche,Panamera 4 Executive,2.9,6,10.2,0.315
+814,Porsche,Panamera 4 ST,2.9,6,10.2,0.315
+815,Porsche,Panamera 4S,2.9,6,9.8,0.315
+816,Porsche,Panamera 4S Executive,2.9,6,10.2,0.315
+817,Porsche,Panamera 4S ST,2.9,6,10.2,0.315
+818,Porsche,Panamera GTS,4.0,8,11.2,0.315
+819,Porsche,Panamera GTS ST,4.0,8,11.8,0.315
+820,Porsche,Panamera Turbo S,4.0,8,11.2,0.315
+821,Porsche,Panamera Turbo S Executive,4.0,8,11.2,0.315
+822,Porsche,Panamera Turbo S ST,4.0,8,11.2,0.315
+823,Ram,1500 EcoDiesel,3.0,6,7.3,0.45
+824,Ram,1500 HFE EcoDiesel,3.0,6,7.1,0.45
+825,Ram,1500 eTorque,3.6,6,9.4,0.45
+826,Ram,1500 HFE eTorque,3.6,6,9.0,0.45
+827,Ram,1500,5.7,8,10.5,0.45
+828,Ram,1500 eTorque,5.7,8,10.0,0.45
+829,Ram,1500 4X4 EcoDiesel,3.0,6,8.0,0.45
+830,Ram,1500 4X4 eTorque,3.6,6,9.7,0.45
+831,Ram,1500 4X4,5.7,8,11.0,0.45
+832,Ram,1500 4X4 eTorque,5.7,8,10.5,0.45
+833,Ram,1500 4X4 TRX,6.2,8,16.5,0.45
+834,Ram,1500 Classic,3.6,6,9.6,0.45
+835,Ram,1500 Classic,5.7,8,11.1,0.45
+836,Ram,1500 Classic 4X4,3.6,6,10.2,0.45
+837,Ram,1500 Classic 4X4,5.7,8,11.6,0.45
+838,Ram,ProMaster City,2.4,4,8.3,0.35
+839,Rolls-Royce,Cullinan,6.7,12,12.1,0.33999999999999997
+840,Rolls-Royce,Cullinan Black Badge,6.7,12,12.1,0.33999999999999997
+841,Rolls-Royce,Ghost,6.7,12,12.7,0.315
+842,Rolls-Royce,Ghost Black Badge,6.7,12,12.7,0.315
+843,Rolls-Royce,Ghost EWB,6.7,12,12.7,0.315
+844,Rolls-Royce,Phantom,6.7,12,11.8,0.315
+845,Rolls-Royce,Phantom EWB,6.7,12,11.8,0.315
+846,Subaru,Ascent AWD,2.4,4,9.0,0.4
+847,Subaru,BRZ,2.4,4,7.7,0.32499999999999996
+848,Subaru,BRZ,2.4,4,8.8,0.32499999999999996
+849,Subaru,Crosstrek AWD,2.0,4,7.0,0.37
+850,Subaru,Crosstrek AWD,2.0,4,8.1,0.37
+851,Subaru,Crosstrek AWD,2.5,4,7.0,0.37
+852,Subaru,Forester AWD,2.5,4,7.2,0.37
+853,Subaru,Forester Wilderness AWD,2.5,4,8.3,0.37
+854,Subaru,Impreza 4-Door AWD,2.0,4,6.4,0.30500000000000005
+855,Subaru,Impreza 4-Door AWD,2.0,4,7.5,0.30500000000000005
+856,Subaru,Impreza 5-Door AWD,2.0,4,6.6,0.32499999999999996
+857,Subaru,Impreza 5-Door AWD,2.0,4,7.7,0.32499999999999996
+858,Subaru,Legacy AWD,2.4,4,7.3,0.315
+859,Subaru,Legacy AWD,2.5,4,6.7,0.315
+860,Subaru,Outback AWD,2.4,4,7.9,0.37
+861,Subaru,Outback AWD,2.5,4,7.1,0.37
+862,Subaru,Outback Wilderness AWD,2.4,4,8.9,0.37
+863,Subaru,WRX AWD,2.4,4,9.4,0.30500000000000005
+864,Subaru,WRX AWD,2.4,4,9.0,0.30500000000000005
+865,Toyota,4Runner 4WD,4.0,6,12.6,0.4
+866,Toyota,4Runner 4WD (Part-Time 4WD) ,4.0,6,12.5,0.4
+867,Toyota,C-HR,2.0,4,7.5,0.30000000000000004
+868,Toyota,Camry LE/SE,2.5,4,6.1,0.30500000000000005
+869,Toyota,Camry XSE,2.5,4,6.3,0.30500000000000005
+870,Toyota,Camry XSE V6,3.5,6,7.4,0.30500000000000005
+871,Toyota,Camry TRD,3.5,6,7.6,0.30500000000000005
+872,Toyota,Camry AWD SE,2.5,4,6.8,0.30500000000000005
+873,Toyota,Camry AWD XSE,2.5,4,7.0,0.30500000000000005
+874,Toyota,Camry Hybrid LE,2.5,4,4.8,0.30500000000000005
+875,Toyota,Camry Hybrid SE/XLE/XSE,2.5,4,5.0,0.30500000000000005
+876,Toyota,Corolla,1.8,4,6.2,0.30000000000000004
+877,Toyota,Corolla XLE,1.8,4,6.3,0.30000000000000004
+878,Toyota,Corolla,1.8,4,6.0,0.30000000000000004
+879,Toyota,Corolla,2.0,4,5.9,0.30000000000000004
+880,Toyota,Corolla XSE,2.0,4,6.1,0.30000000000000004
+881,Toyota,Corolla,2.0,4,6.5,0.30000000000000004
+882,Toyota,Corolla Apex Edition,2.0,4,6.2,0.30000000000000004
+883,Toyota,Corolla Hatchback,2.0,4,5.9,0.30000000000000004
+884,Toyota,Corolla Hatchback,2.0,4,6.7,0.30000000000000004
+885,Toyota,Corolla Hybrid,1.8,4,4.5,0.30000000000000004
+886,Toyota,Corolla Cross,2.0,4,7.0,0.37
+887,Toyota,Corolla Cross AWD,2.0,4,7.4,0.37
+888,Toyota,GR 86,2.4,4,7.7,0.32499999999999996
+889,Toyota,GR 86,2.4,4,8.7,0.32499999999999996
+890,Toyota,GR Supra 2.0,2.0,4,7.2,0.32499999999999996
+891,Toyota,GR Supra 3.0,3.0,6,8.0,0.32499999999999996
+892,Toyota,Highlander AWD,3.5,6,8.6,0.37
+893,Toyota,Highlander Hybrid AWD,2.5,4,6.8,0.4
+894,Toyota,Highlander Hybrid AWD Limited/Platinum,2.5,4,6.8,0.4
+895,Toyota,Prius,1.8,4,4.7,0.30500000000000005
+896,Toyota,Prius AWD,1.8,4,5.0,0.30500000000000005
+897,Toyota,RAV4,2.5,4,6.8,0.37
+898,Toyota,RAV4 (Stop/Start),2.5,4,6.8,0.37
+899,Toyota,RAV4 AWD,2.5,4,7.1,0.37
+900,Toyota,RAV4 AWD (Stop/Start),2.5,4,7.1,0.37
+901,Toyota,RAV4 AWD LE,2.5,4,6.9,0.37
+902,Toyota,RAV4 AWD TRD Off-Road,2.5,4,7.4,0.37
+903,Toyota,RAV4 Hybrid AWD,2.5,4,6.3,0.37
+904,Toyota,Sequoia 4WD,5.7,8,13.9,0.4
+905,Toyota,Sienna,2.5,4,6.5,0.32499999999999996
+906,Toyota,Sienna AWD,2.5,4,6.6,0.32499999999999996
+907,Toyota,Tacoma 4WD,3.5,6,10.5,0.41500000000000004
+908,Toyota,Tacoma 4WD,3.5,6,11.4,0.41500000000000004
+909,Toyota,Tacoma 4WD D-Cab TRD Off-Road/PRO,3.5,6,11.7,0.41500000000000004
+910,Toyota,Tundra,3.4,6,10.1,0.45
+911,Toyota,Tundra 4WD,3.4,6,10.4,0.45
+912,Toyota,Tundra 4WD TRD,3.4,6,10.6,0.45
+913,Toyota,Tundra Hybrid 4WD,3.4,6,10.5,0.45
+914,Toyota,Tundra Hybrid 4WD TRD PRO,3.4,6,11.2,0.45
+915,Toyota,Venza AWD,2.5,4,6.4,0.37
+916,Volkswagen,Atlas 4MOTION,2.0,4,9.5,0.37
+917,Volkswagen,Atlas 4MOTION,3.6,6,10.2,0.37
+918,Volkswagen,Atlas Cross Sport 4MOTION,2.0,4,9.7,0.37
+919,Volkswagen,Atlas Cross Sport 4MOTION,3.6,6,10.0,0.37
+920,Volkswagen,Golf GTI,2.0,4,7.0,0.30500000000000005
+921,Volkswagen,Golf GTI,2.0,4,6.9,0.30500000000000005
+922,Volkswagen,Golf R,2.0,4,7.7,0.30500000000000005
+923,Volkswagen,Golf R,2.0,4,8.3,0.30500000000000005
+924,Volkswagen,Jetta,1.5,4,5.7,0.30000000000000004
+925,Volkswagen,Jetta SE/SEL,1.5,4,5.8,0.30000000000000004
+926,Volkswagen,Jetta,1.5,4,5.5,0.30000000000000004
+927,Volkswagen,Jetta GLI,2.0,4,6.5,0.30000000000000004
+928,Volkswagen,Jetta GLI,2.0,4,6.4,0.30000000000000004
+929,Volkswagen,Passat,2.0,4,6.6,0.30500000000000005
+930,Volkswagen,Taos,1.5,4,6.6,0.37
+931,Volkswagen,Taos 4MOTION,1.5,4,7.4,0.37
+932,Volkswagen,Tiguan 4MOTION,2.0,4,8.0,0.37
+933,Volkswagen,Tiguan R-Line 4MOTION,2.0,4,8.3,0.37
+934,Volvo,S60 B5,2.0,4,6.7,0.30000000000000004
+935,Volvo,S60 B5 AWD,2.0,4,6.9,0.30000000000000004
+936,Volvo,S90 B6 AWD,2.0,4,7.5,0.30500000000000005
+937,Volvo,V60 T6 AWD,2.0,4,7.5,0.32499999999999996
+938,Volvo,V60 CC T5 AWD,2.0,4,7.7,0.32499999999999996
+939,Volvo,V90 CC B6 AWD,2.0,4,8.1,0.33999999999999997
+940,Volvo,XC40 T4 AWD,2.0,4,7.6,0.37
+941,Volvo,XC40 T5 AWD,2.0,4,7.7,0.37
+942,Volvo,XC60 B5 AWD,2.0,4,8.1,0.37
+943,Volvo,XC60 B6 AWD,2.0,4,8.7,0.37
+944,Volvo,XC90 T5 AWD,2.0,4,8.4,0.4
+945,Volvo,XC90 T6 AWD,2.0,4,8.9,0.4

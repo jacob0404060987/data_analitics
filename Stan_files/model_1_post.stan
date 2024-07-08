@@ -12,8 +12,6 @@ parameters {
     real<lower=0> sigma;  
 }
 
-
-
 model {
     
     alpha ~ normal(8.5, 3);  
@@ -39,3 +37,9 @@ generated quantities {
     y_out[i] = normal_rng(alpha + beta_engine_size * engine_size[i] + beta_drag_coeficient * drag_coeficient[i], sigma);
     }
 }
+
+
+
+
+
+
